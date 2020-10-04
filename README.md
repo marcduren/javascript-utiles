@@ -1,5 +1,6 @@
 # javascript-utiles
 
-##arrays
+## arrays
 function removeDuplicates(a){...}
+
 const join = (arr, separator = ','){...}
